@@ -1,0 +1,54 @@
+.homepage-image-container {
+    height: 30vh;
+    width: 100%;
+}
+
+.main-homepage-image {
+
+    height: 60vh;
+    width: 100%;
+}
+
+.test-1 {
+    height: 130px;
+    margin-top:20px;
+    background-color: red;
+   
+    
+    
+   
+    
+}
+
+.test-2 {
+    height: 130px;
+    margin-top:20px;
+    background-color: green;
+ 
+    
+   
+}
+
+.test-3 {
+    height: 130px;
+    margin-top:20px;
+    background-color: blue;
+    
+
+   
+}
+
+.homepage-title {
+    margin-left:0;
+}
+.homepage-sub-header {
+    margin-left:0;
+}
+
+.navbar-elvis {
+    position:absolute;
+    background-color:white;
+    z-index: 2;
+    width:100vw;
+    color:black;
+}
